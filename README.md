@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Keivan</h1>
 <h3 align="center">A junior backend developer working with Node.js</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=keivan-sf&label=Profile%20views&color=0e75b6&style=flat" alt="keivan-sf" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=keivan-sf" alt="keivan-sf" /></a> </p>
 
 - 🔭 I’m currently working on [Radio Javan Downloader v2](https://github.com/Keivan-sf/rjdl)
