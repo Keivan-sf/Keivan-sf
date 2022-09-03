@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=keivan-sf&label=Profile%20views&color=0e75b6&style=flat" alt="keivan-sf" /> </p>
 
-- 🔭 I’m currently working on [Radio Javan Downloader v2](https://github.com/Keivan-sf/rjdl/tree/ts-migration)
+- 🔭 I’m currently working on [Radio Javan Downloader v2](https://github.com/Keivan-sf/rjdl)
 
 - 🌱 I’m currently learning **Typescript , Basics of clean code , Basic Algorithms**
 
