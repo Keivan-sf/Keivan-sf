@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Radio Javan Downloader v2](https://github.com/Keivan-sf/rjdl)
 
-- 🌱 I’m currently learning **Typescript , Basics of clean code , Basic Algorithms**
+- 🌱 I’m currently learning **Nestjs , Docker , Basics of clean code**
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/keivan-sf-529860230/](https://www.linkedin.com/in/keivan-sf-529860230/)
 
