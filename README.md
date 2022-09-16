@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Nestjs , Docker , Basics of clean code**
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/keivan-sf-529860230/](https://www.linkedin.com/in/keivan-sf-529860230/)
+- 📝 I regularly write articles on [LinkedIn](https://www.linkedin.com/in/keivan-sf-529860230/)
 
 - 📫 How to reach me **Keyvan0082@gmail.com**
 
