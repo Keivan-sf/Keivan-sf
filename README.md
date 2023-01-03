@@ -1,5 +1,3 @@
-<h3 align="center">Checkout <a href="https://twitter.com/search?q=%23mahsa_amini">#Mahsa_Amini</a>, Support women of Iran 🇮🇷</h3>
-
 <h1 align="center">Hi 👋, I'm Keivan</h1>
 
 <h3 align="center">A junior backend developer working with Node.js</h3>
