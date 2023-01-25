@@ -2,7 +2,7 @@
 
 <h4 align="center">A junior backend developer working with Node.js</h4>
 
-- 🔭 I’m currently working on [Radio Javan Downloader v2](https://github.com/Keivan-sf/rjdl)
+- 🔭 I’m currently working on [Radio Javan Downloader](https://github.com/Keivan-sf/rjdl)
 
 - 🌱 I’m currently learning **Nestjs , Docker , Basics of clean code**
 
