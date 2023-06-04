@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working at [Coffee](https://coffee.xyz/)
 
-- 🌱 I’m currently learning **Nestjs , Docker , Basics of clean code**
+- 🌱 I’m currently learning **Rust**
 
 - 📝 I regularly write articles on [LinkedIn](https://www.linkedin.com/in/keivan-sf-529860230/)
 
