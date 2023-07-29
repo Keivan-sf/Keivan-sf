@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Rust**
 
-- 📝 I regularly write articles on [LinkedIn](https://www.linkedin.com/in/keivan-sf-529860230/)
+- 📝 You can find me on [LinkedIn](https://www.linkedin.com/in/keivan-sf-529860230/)
 
 - 📫 How to reach me **Keyvan0082@gmail.com**
 
