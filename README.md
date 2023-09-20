@@ -2,8 +2,6 @@
 
 <h4 align="center">A junior backend developer working with Node.js</h4>
 
-- 🔭 I’m currently working at [Coffee](https://coffee.xyz/)
-
 - 🌱 I’m currently learning **Rust**
 
 - 📝 You can find me on [LinkedIn](https://www.linkedin.com/in/keivan-sf-529860230/)
