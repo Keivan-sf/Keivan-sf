@@ -1,6 +1,6 @@
 <h3 align="center">Hi 👋, I'm Keivan</h3>
 
-<h4 align="center">A backend developer working with Node.js</h4>
+<h4 align="center">A backend developer</h4>
 
 - 🌱 I’m currently learning **Rust**
 
