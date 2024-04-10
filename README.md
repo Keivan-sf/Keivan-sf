@@ -1,4 +1,4 @@
-<h4 align="center">Hi, I'm Keivan, A backend developer</h4>
+<h4 align="center">A backend developer</h4>
 
 - 📝 You can find me on [LinkedIn](https://www.linkedin.com/in/keivan-sf-529860230/)
 
