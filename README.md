@@ -2,8 +2,6 @@
 
 <h4 align="center">A backend developer</h4>
 
-- 🌱 I’m currently learning **Rust**
-
 - 📝 You can find me on [LinkedIn](https://www.linkedin.com/in/keivan-sf-529860230/)
 
 - 📫 How to reach me **Keyvan0082@gmail.com**
